@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "318072495793",
+    "firebase_url": "https://meijerinterviewproject.firebaseio.com",
+    "project_id": "meijerinterviewproject",
+    "storage_bucket": "meijerinterviewproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318072495793:android:cd569359380c8a6d",
+        "android_client_info": {
+          "package_name": "com.lanny.meijerinterviewproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318072495793-rhkgill6oj9o7dh3qs90naisi25dqb91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanny.meijerinterviewproject",
+            "certificate_hash": "44258d184f27638ad26a04abadd100797434c268"
+          }
+        },
+        {
+          "client_id": "318072495793-gbs4qravaiasfjcnccp5g97vfdhmr5in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdCwYvm0OprNyiNWjzi1K5_tvE2i3BfiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318072495793-gbs4qravaiasfjcnccp5g97vfdhmr5in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
